@@ -51,4 +51,4 @@ assert even_number_of_events([2, 3, 9, 10, 1, 7, 8]) == False, "Multiple numbers
 #assert even_number_of_events([2, 3, 9, 10, 1, 7, 8, 5, 12]) == True, "Multiple numbers, four even"
 assert even_number_of_events([1, 2, 9]) == False, "No even numbers"
 
-print("All tests passed!")
+print
