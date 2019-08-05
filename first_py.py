@@ -39,9 +39,9 @@ def even_number_of_events(numbers):
     if evens == 0:
         return False
     else:
-        return evens % 2 ==
+        return even
 
-#test2
+#test23
 
 assert even_number_of_events([]) == False, "No numbers"
 assert even_number_of_events([2]) == False, "One even number"
