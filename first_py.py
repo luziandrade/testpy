@@ -39,7 +39,7 @@ def even_number_of_events(numbers):
     if evens == 0:
         return False
     else:
-        return evens % 2 == 0
+        #return evens % 2 == 0
 
 
 assert even_number_of_events([]) == False, "No numbers"
